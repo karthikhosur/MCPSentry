@@ -1,6 +1,3 @@
-Below is a **full, updated whitepaper** in Markdown format. It includes refinements to the **Verification Pipeline**—in particular, replacing the traditional human-led Expert Review with an **LLM-based** approach—while preserving and enhancing the original sections. The tone is intended to be both **academic** and **developer-focused**, with a structure suitable for **industry professionals** as well.
-
----
 
 # MCP Server Marketplace: A Proposed Security Framework for the AI Tool Ecosystem
 
